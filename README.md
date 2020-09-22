@@ -5,5 +5,7 @@ Note - 1) Before running this file on you system install latest version of pytho
        2) After installation of python install some modules
               i)tkinter 
               ii)pyistaller
+              iii)requests
+              
             
           
